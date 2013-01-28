@@ -1,4 +1,4 @@
 orchardtraining
 ===============
 
-Orchard Training Repo
+Orchard Training Repo; fun and games :)
